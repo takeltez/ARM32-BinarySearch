@@ -1,5 +1,5 @@
 bin/
 build/
-toolchain/
-src/*.txt
-*.txt
+target/
+raspberrypi/
+CMakeLists.txt
