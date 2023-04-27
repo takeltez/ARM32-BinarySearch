@@ -114,7 +114,6 @@ function cross_comp()
 	echo "*****"
 
 	make -j
-
 }
 
 function on_target()
