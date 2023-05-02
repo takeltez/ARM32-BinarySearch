@@ -173,7 +173,7 @@ else
 	echo -e "\nbuild-type:"
 	echo -e "\tcross-comp - cross-compilation for target device"
 	echo -e "\t\thost@ip - address of target device"
-	echo -e "\t\tport - ssh port of target"
+	echo -e "\t\tport - ssh port of target device"
 	echo -e "\ton-target - provide directory includes sources and Makefile for build project on target device (address and port options are ignored)"
 fi
 
